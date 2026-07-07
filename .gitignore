@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Keys / Secrets
+admin_key.txt
+admin_key2.txt
+admin_biometria.json
+*.key
+*.pem
+
+# Logs
+*.log
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+
+# Generated files
+*.docx
+
+# Build
+build/
+dist/
+*.egg-info/
